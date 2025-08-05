@@ -671,7 +671,17 @@ class WebDev100Days {
         category: "basic",
         technologies: ["HTML", "CSS", "JavaScript"],
         features: ["LeetCode", "Stats", "Graph"]
-      }
+      },
+      {
+        originalDay: 123,
+        name: "LeetMatrix",
+        description: "Check Leetcode stats ",
+        demoLink: "./public/Stopwatch Web Application/index.html",
+        category: "basic",
+        technologies: ["HTML", "CSS", "JavaScript"],
+        features: ["Get proper time recorded", "Reset", "Lap function"]
+
+      },
 
     ];
   
