@@ -628,7 +628,6 @@ class WebDev100Days {
         features: ["Canvas Drawing", "Color Picker", "Brush Size Control", "Clear Canvas Button"]
       },
 
-
       { 
          originalDay: 120,
          name: "Fruit Slicer ",
@@ -673,7 +672,7 @@ class WebDev100Days {
         technologies: ["HTML", "CSS", "JavaScript"],
         features: ["LeetCode", "Stats", "Graph"]
       },
-
+      
       {
         originalDay: 124,
         name: "Enhanced Stop Watch Application",
@@ -684,6 +683,7 @@ class WebDev100Days {
         features: ["Get proper time recorded", "Reset", "Lap function"]
 
       },
+
 
     ];
   
