@@ -638,7 +638,6 @@ class WebDev100Days {
         features: ["Score System", "Lifes", "Fruit Cutting"]
       },
 
-
       { 
          originalDay: 121,
          name: "Github Profle Finder ",
@@ -648,8 +647,6 @@ class WebDev100Days {
         technologies: ["HTML", "CSS", "JavaScript"],
         features: ["Github", "Github Followers ", "Creative"]
       },
-
-
       
         {
 
